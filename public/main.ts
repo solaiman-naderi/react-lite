@@ -1,1 +1,1 @@
-import "@examples/index.ts";
+import "@examples/index.tsx";
